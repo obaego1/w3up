@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.4.0](https://github.com/web3-storage/w3up/compare/upload-api-v8.3.0...upload-api-v8.4.0) (2024-02-22)
+
+
+### Features
+
+* upgrade ucanto/transport to 9.1.0 in all packages to get more verbose errors from HTTP transport on non-ok response ([#1312](https://github.com/web3-storage/w3up/issues/1312)) ([d6978d7](https://github.com/web3-storage/w3up/commit/d6978d7ab299be76987c6533d18e6857f6998fe6))
+
 ## [8.3.0](https://github.com/web3-storage/w3up/compare/upload-api-v8.2.0...upload-api-v8.3.0) (2024-01-29)
 
 
