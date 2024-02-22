@@ -1,5 +1,12 @@
 # Changelog
 
+## [13.1.0](https://github.com/web3-storage/w3up/compare/upload-client-v13.0.1...upload-client-v13.1.0) (2024-02-22)
+
+
+### Features
+
+* upgrade ucanto/transport to 9.1.0 in all packages to get more verbose errors from HTTP transport on non-ok response ([#1312](https://github.com/web3-storage/w3up/issues/1312)) ([d6978d7](https://github.com/web3-storage/w3up/commit/d6978d7ab299be76987c6533d18e6857f6998fe6))
+
 ## [13.0.1](https://github.com/web3-storage/w3up/compare/upload-client-v13.0.0...upload-client-v13.0.1) (2024-02-01)
 
 
